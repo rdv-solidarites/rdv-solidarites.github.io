@@ -8,7 +8,7 @@ layout: home
 <ul class="list-posts">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }} du {{ post.date | date: "%-d/%-m/%Y" }}</a>
     </li>
   {% endfor %}
 </ul>

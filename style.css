@@ -21,6 +21,10 @@
   font-size: 3rem;
 }
 
+.big-title a {
+  color: inherit;
+}
+
 .sous-titre {
   font-style: italic;
 }
@@ -28,4 +32,22 @@
 .list-posts {
   margin: 1rem auto;
   max-width: 30rem;
+}
+
+.footer {
+  margin-top: 4rem;
+  border-top: 1px solid black;
+  padding: 1rem 4rem;
+  font-size: smaller;
+  font-style: italic;
+}
+
+.date-article {
+  font-size: smaller;
+  font-style: italic;
+}
+
+.main {
+  font-family: monospace;
+  font-size: 1rem;
 }
