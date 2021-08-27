@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Marianne";
+  src: url("assets/Marianne/Marianne-Regular.woff2") format('woff2'), url('assets/Marianne/Marianne-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.page {
+  font-family: "Marianne", sans-serif;
+  max-width: 50rem;
+  margin: 1rem auto;
+}
+
+.header {
+  text-align: center;
+  border: 1px solid black;
+}
+
+.big-title {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.sous-titre {
+  font-style: italic;
+}
+
+.list-posts {
+  margin: 1rem auto;
+  max-width: 30rem;
+}
