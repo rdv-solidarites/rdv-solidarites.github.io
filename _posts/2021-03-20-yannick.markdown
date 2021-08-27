@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Journal de Yannick"
+date:   2021-03-20
+---
+
+Redirection de mails usagers
+
+Standup ANCT - partage des soucis DPO/Convention et de nos avancées sur le sujet HDS
+
+Échange avec Nicolas à propos de PR en cours sur les notifications. Nous partageons aussi des souhaits de simplification du code.
+
+Rencontre avec [Interhop](https://interhop.org/) samedi ?
+
+Reprise du ticket sur le problème du panneau de statistique qui ne s'affichait pas. C'est lié à un très très vieux rendez-vous, trop vieux d'ailleurs. Une erreur de saisie sans doute. Alors nous avons décidé d'empêcher la création de RDV dans le passé. Il faut repasser un peu partout dans les tests du coup pour avoir des RDV valides au moment des tests.
+
+Ça repose la question des rendez-vous passé et de notre finalité.
+
+Doctolib évoque des échanges sécurisé pour les documents médicaux. C'est intéressant pour des pièces justificative pour mon suivi justice par exemple, pour DossierSCO ça aurait été intéressant aussi. Pour nous, ça ouvrirais une porte vers une finalité qui ne devrait pas être la notre.
+Notre finalité est peut-être plutôt de faciliter la discussion entre les agents et les usagers ?
+
+Les personnes de Beezim avancent. Elles nous ont demandé de nouvelles url. Ils nous demandent aussi les IP pour les laisser passer.
+

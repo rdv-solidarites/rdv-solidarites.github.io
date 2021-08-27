@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Journal de Yannick"
+date:   2021-03-21
+---
+
+Préparation de la transition de portage Octo -> Scopyleft
+
+Réponse et configuration pour Beezim et la Drôme
+
+Documente les IPs Scalingo dans la doc
+
+Traitement des emails en attente de Clarrise (92)
+
+Traitement de la demande de Christelle (64) sur la liste des motifs du social. Je l'ai fait via metabase. J'ai vraiment l'impression que nous sous-utilisons cet outil :)
+
+Préparation d'une réponse pour la DSIN du 77. Une page à mettre dans la doc ?
+
+Dur cette journée où j'ai l'impression de le pas avancer...
+
+Traitement tickets Zammad. Création d'un ticket pour supprimer Zammad et revenir a un mode de contact via l'email de l'équipe, directement.
+
+Réalisation des tickets
+- #1404 pour rendre accessible les statistiques d'une organisation à tous les agents de l'organisation
+- #1309 à propos du bug où la récurrence d'une absence n'était plus envoyé via le webhook
+
+J'ai également changé la config RSpec pour que les tests se jouent dans un ordre aléatoire. Il faudrait sans doute changer la github action aussi. Après vérification, c'est fait via le script qui split les specs.
+
+Je suis toujours ennuyé par le temps d'exécution des specs sur ma machine.
+

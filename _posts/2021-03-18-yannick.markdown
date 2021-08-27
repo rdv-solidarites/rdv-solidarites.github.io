@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Journal de Yannick"
+date:   2021-03-18
+---
+
+Réunion référentes. C'est intéressant d'avoir le temps d'explorer certains sujets.
+
+Traitement de suivi de mail usager vers les agents et des tickets Zammad. **Très envie de supprimer Zammad**
+
+Discussion d'introduction avec le futur développeur de Mon Suivi Justice
+
+Exploration du problème de date. La piste semble être la donnée : il y a un rendez-vous très loin dans le passé en démo. En prod aussi. Je corrige les années, ça fonctionne mieux.
+
+J'ai reçu de l'aide pour mon problème de mot de passe sur le mattermost de l'incubateur de territoire
+
+Rétrospective où l'on parle beaucoup de nos inquiétudes sur le bon de commandes. Il faut que je regarde avec Scopyleft comment nous pourrions faire en sorte de sécuriser Nicolas et Radia, quitte à temporiser pour moi. Il resterait les frais à faire passer aussi dessus. D'ailleurs, il nous a été demandé de basculer un maximum vers l'administration pour ces points-là. Comment procéder ?
+
+Je me demande où publier ce journal. Je prends le temps de créer un nouveau book dans Gitbook. Je découvre que nous pouvons les créer en privée. J'essaie. Nous verrons bien. Par contre, je suis plus à l'aise pour écrire dans mon terminal. Je vais faire une synchro avec un repo privée sur github ? Voilà, c'est fait [https://github.com/rdv-solidarites/journal-equipe](https://github.com/rdv-solidarites/journal-equipe)
+
+Revues des PR, mise à jour de mes PR pour les tenir prête à la revue.
+
+Mise au propre du compte-rendu de la réunion référente
+
+J'ai également partagé sur les canaux ops de l'ANCT et de betagouv une question sur le transfert des outils que nous payons par note de frais :
+
+> Hello, J'ai cru comprendre que nous (presta) ne devrions plus prendre à notre charge le paiement des divers plateforme et outils. Merci de tout ce qui a été fait qui permet de le faire sur certains sujet (je pense à Scalingo et à Netsize pour nous). Ceci étant, il reste encore quelques points. Comment les régler ? Est-ce qu'il y a un endroit où nous pouvons lister ces services et explorer les pistes pour les faires prendre en charge directement par la dinum ?
+
+Je pense que des outils comme un discourse pourrait vraiment être très chouette. Si l'ANCT (ou la Dinum) peu proposer des instances de Discourse, ça pourrait être vraiment chouette pour l'animation de communauté.
+Pour gandi, je pense que l'ANCT (ou la Dinum) pourrait avoir un compte, et selon les noms de domaine, partager la gestion avec les membres de l'équipe.
+
+Je crois que l'ANCT propose déjà un nextcloud aux équipes, nous pourrions d'ailleurs migré chez eux ?
+Il reste Peertube (que nous n'utilisons pas vraiment je crois), Updown, Zammad et Zoom.
+Pour Zammad, je vais m'activer pour le supprimer. Pour Zoom, nous pourrions basculter sur BigBlueButton (je crois qu'il y a des problèmes d'accès dans certains département, il faudrait creuser).
+
+L'état pourrait se transformer en chaton ? :D
+
+
