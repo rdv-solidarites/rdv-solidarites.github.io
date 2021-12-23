@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Journal de Yannick"
-date:   2021-03-26
----
-
-Traitement des emails. Ça me fait penser au mode de communication des usagers avec les agents. Nous n'avons rien à faire sur le chemin. Très envie de supprimer le Zammad et de mettre les agents dans les reply-to :)
-
-
