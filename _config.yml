@@ -21,10 +21,9 @@ krawdown:
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Le terrier
+title: TITRE À MODIFIER
 email: contact@rdv-solidarites.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Le site de l'équipe Lapin, équipe technique s'occupant du 
   service publique RDV-Solidarités. Outil de prise de rendez-vous.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
